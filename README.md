@@ -4,8 +4,8 @@ In my project for the Undergraduate Project Course (PROJ-201), I came up with a 
 I used two databases from kaggle.com and wrote several scripts to wrangle and prepare the database. Then I devised a potential equation to measure excitement and implemented it.
 
 ### The databases I used:
-* [UFC Fight Data [1993 to 2023]] (https://www.kaggle.com/datasets/akshaysinghim/ufc-fight-data-1993-to-2023)
-* [UFC Fighters' Statistics Dataset] (https://www.kaggle.com/datasets/asaniczka/ufc-fighters-statistics)
+* [UFC Fight Data [1993 to 2023]](https://www.kaggle.com/datasets/akshaysinghim/ufc-fight-data-1993-to-2023)
+* [UFC Fighters' Statistics Dataset](https://www.kaggle.com/datasets/asaniczka/ufc-fighters-statistics)
 
 ### The equation I came up with:
 I had to upload screenshots because Github is unable to process Notion markdown.
